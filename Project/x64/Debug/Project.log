@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\Project\Project\main.cpp(46,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(54,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(55,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(73,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(80,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(239,21): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Project\Project\main.cpp(255,20): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Project\Project\main.cpp(258,20): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Project\Project\main.cpp(274,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Project\Project\main.cpp(274,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Project\Project\main.cpp(274,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Project\Project\main.cpp(286,20): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(287,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\Project\Project\main.cpp(310,13): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+  Project.vcxproj -> D:\Project\x64\Debug\Project.exe
